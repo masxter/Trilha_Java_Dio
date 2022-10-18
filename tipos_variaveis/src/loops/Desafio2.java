@@ -23,13 +23,12 @@ public class Desafio2 {
       
         for(int i = 1; i <= N; i++){
 
-        
             if(i % A == 0)
             multiplo += i;
-            System.out.println(multiplo);
-
+           
         }
 
+        System.out.println(multiplo);
 
     }
 }
